@@ -5,3 +5,4 @@
 --platform=linux/arm64 whyour/qinglong:latest
 whyour/qinglong:latest
 #docker
+xiaoyaliu/alist
