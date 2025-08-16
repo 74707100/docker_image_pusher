@@ -6,4 +6,4 @@
 #whyour/qinglong:latest
 #docker
 #xiaoyaliu/alist
---platform=linux/arm64 xhofe/alist
+--platform=linux/arm64 xhofe/alist:v3.39.1
